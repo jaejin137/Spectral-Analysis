@@ -1,5 +1,4 @@
-# analysis-code-library
-NMRC's library of analysis codes
+# Spectral analysis codes
 
 ## Currently available categories
 **Coherence ("coherence")**\
